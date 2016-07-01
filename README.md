@@ -6,7 +6,7 @@ All the modules or plugins I've created with Materialize CSS(which I didn't find
 
 First of all in now-a-days Products page this module is playing a much more important role. So I made this for my use and you can use for yours :P 
 
-###simple code
-###easy to edit
-###Free to code
+..*simple code
+..*easy to edit
+..*Free to code
 
